@@ -154,7 +154,6 @@ nav ul li a:hover{
         position: absolute;
         left: 0;
         bottom: 0;
-        background-image: linear-gradient(to top, #000 40%, transparent);
     }
     .slider .list .item .content{
         position: absolute;

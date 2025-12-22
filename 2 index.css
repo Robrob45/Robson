@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Trebuchet MS', Arial, sans-serif;
+    text-decoration: none;
 }
 :root{
     --text-color:#5c02f7;
@@ -202,6 +203,13 @@ nav ul li a:hover{
     margin: auto
     
 }
+
+.button span{
+    display: block;
+    color: #0aebba;
+}
+
+
 .button:hover{
     color: #000;
     background: white;
@@ -236,6 +244,13 @@ nav ul li a:hover{
 .Footer-row p{
     line-height: 35px;
 }
+
+.Footer-row p span{
+    color: black;
+    font-family: monospace;
+    text-decoration: none;
+}
+
 .footer-img{
     max-width: 370px;
     opacity: 0.1;
